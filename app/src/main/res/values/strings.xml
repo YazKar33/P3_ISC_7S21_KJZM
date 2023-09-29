@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">P3_ISC_7S21_KJZM</string>
+    <string name="titulop1">Programando en Android</string>
+    <string name="descipimgp1">Logo Tesoem</string>
+    <string name="titulop2">Menu de opciones</string>
+    <string name="p2suma2num">SUMA DE 2 NUMEROS</string>
+    <string name="p2resta2num">Resta 2 numeros</string>
+    <string name="titulop3">Suma de 2 numeros</string>
+    <string name="p3textnum1">INGRESA EL PRIMER NUMERO</string>
+    <string name="p3textnum1f">Numero 1</string>
+    <string name="p3textnum2">INGRESA EL SEGUNDO NUMERO</string>
+    <string name="p3textnum2f">Numero 2</string>
+    <string name="p3btntext">Calcular</string>
+    <string name="p3lbltext">RESULTADO DE LA SUMA</string>
+    <string name="titulop4">RESTA DE DOS NÚMEROS</string>
+    <string name="p4textnum1">INGRESA EL PRIMER NÚMERO</string>
+    <string name="p4textnum1f">Numero 1</string>
+    <string name="p4textnum2">INGRESA EL SEGUNDO NÚMERO</string>
+    <string name="p4textnum2f">Numero 2</string>
+    <string name="p4btntext">Calcular</string>
+    <string name="p4lbltext">RESULTADO DE LA RESTA</string>
+</resources>
